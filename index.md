@@ -53,7 +53,11 @@ TinEngine在[Tin知识库](http://tinhome.baklib.com/)中通过使用接口的�
 [CSDN博客网址](https://blog.csdn.net/tinga_kilin/)
 
 ### 站内博客
-暂无（待完善）~~
+[站内博客地址](https://smart-space.github.io/personal/years.html)
+
+### 联系邮箱
+
+[作者邮箱](smart-space@qq.com)
 
 - - -
 #### 友情链接
