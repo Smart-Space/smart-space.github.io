@@ -1117,7 +1117,6 @@ input {
   background-color: #263238;
 }
 
-div{
-    width:200px;
-    margin:0 auto;
-}
+div {   
+ padding:300px;   
+} 
