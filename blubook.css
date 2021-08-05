@@ -1119,7 +1119,7 @@ input {
 
 div{
 position:absolute;
-left:200;
-right:200;
+left:200px;
+right:200px;
 margin:0 auto;
 }
