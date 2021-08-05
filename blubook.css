@@ -189,9 +189,9 @@ body {
 }
 
 hr {
-  border-color: #e6ecf1;
+  border-color: #8aefea;
   height: 2px;
-  border-top: 2px solid #e6ecf1;
+  border-top: 2px solid darkblue;
 }
 
 img {
@@ -212,8 +212,8 @@ ul>li>ul>li>ul>li {
 
 ol,
 ul {
-  padding-left: 2rem;
-  line-height: 1;
+  padding-left: 4rem;
+  line-height: 2;
 }
 
 ol>li {
@@ -1117,6 +1117,9 @@ input {
   background-color: #263238;
 }
 
-div {   
- padding:300px;   
-} 
+div{
+position:absolute;
+left:200;
+right:200;
+margin:0 auto;
+}
