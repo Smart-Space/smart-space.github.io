@@ -16,7 +16,7 @@ Smart-Space 的个人网站使用[GitHub](https://github.com/)提供的*GitHub P
 ## 项目
 
 ### Tin
-<img src="http://smart-space.github.io/img/TinLogo.png" width="300" height="300" alt="Tin的logo">Tin's logo
+<img src="http://smart-space.com.cn/img/TinLogo.png" width="300" height="300" alt="Tin的logo">Tin's logo
 
 Tin是一种**富文本标记语言**，像Markdown、html等语言，可以被指定的程序渲染成富文本。Tin的定位与Markdown一样，因为Tin基于tkinter（Python）开发， 无法实现像html那样的超文本类型渲染。
 
