@@ -54,4 +54,4 @@
 
 对新版TinML的新实现。
 
-见[TinText](tintext.smart-space.com.cn)。
+见[TinText](https://tintext.smart-space.com.cn)。
