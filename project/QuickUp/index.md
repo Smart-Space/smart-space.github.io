@@ -1,5 +1,7 @@
 # QuickUp
 
+<img src="../../img/QuickUplogo.png" style="zoom:30%;" />
+
 QuickUp是一个应用组启动器，可以由用户自定义增、删、改任务项目，一键启动工作、学习软件环境。
 
 用户界面见[介绍文章](https://blog.csdn.net/tinga_kilin/article/details/145587091)。

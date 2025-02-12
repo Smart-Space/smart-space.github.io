@@ -1,6 +1,6 @@
 # TinUI
 
-![](../../img/tinuilogo.png)
+![](../../img/TinUIlogo.png)
 
 ## What't TinUI
 
