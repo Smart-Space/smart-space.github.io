@@ -1,6 +1,6 @@
 # TinUI
 
-![](https://github.com/Smart-Space/TinUI/raw/main/image/LOGO.png)
+![](../../img/tinuilogo.png)
 
 ## What't TinUI
 
@@ -29,10 +29,6 @@ TinUI现在在pypi上发布，在[pypi-TinUI](https://pypi.org/project/tinui/)�
 ### GitHub
 
 TinUI目前托管在github，前往[github-TinUI](https://github.com/Smart-Space/TinUI)主页获取帮助。
-
-### 在线获取
-
-[下载TinUI源码](TinUI.py)
 
 ### 在线说明
 

@@ -55,3 +55,12 @@
 对新版TinML的新实现。
 
 见[TinText](https://tintext.smart-space.com.cn)。
+
+---
+
+# QuickUp
+
+一键启动工作、学习软件环境。
+
+见[QuickUp](./quickup)。
+

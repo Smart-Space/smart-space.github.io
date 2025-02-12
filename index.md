@@ -12,7 +12,17 @@ Smart-Space blog
 
 ## 项目
 
-### Tin
+### TinUI
+
+> 为Tin项目提供现代化虚拟组件
+
+TinUI是基于tkinter的一个控件，借鉴了HTML和uwp（winUI）组件，用来绘制现代化的虚拟组件，优化tkinter窗口的显示效果和速度。
+
+关于**TinUI**的[站内介绍](https://smart-space.com.cn/project/TinUI)
+
+---
+
+### Tin | TinText
 
 <img src="https://smart-space.com.cn/img/TinLogo.png" width="300" height="300" alt="Tin的logo">
 
@@ -35,6 +45,8 @@ Tin是一种**富文本标记语言**，像Markdown、html等语言，可以被�
 > 新的TinML比旧版更实用、更规范、更简洁。
 
 TinML的新一版实现直接命名为——[TinText](https://tintext.smart-space.com.cn)。
+
+[下载地址 TinText](https://github.com/Smart-Space/TinText/releases/)
 
 ---
 
@@ -62,15 +74,15 @@ TinML的新一版实现直接命名为——[TinText](https://tintext.smart-spac
 
 新项目目前没有独立发布TinEngine，但是TinText中的TinEngine模块不依赖项目包，可直接“取出”使用，只需要保证`/data/*`目录的存在和规范即可。
 
+---
+
+### QuickUp
+
+QuickUp是一个应用组启动器，通过自定义的任务，一键启动工作、学习软件环境。
+
+具体见[QuickUp](./project/quickup)
+
 - - -
-
-### TinUI
-
-> 为Tin项目提供现代化虚拟组件
-
-TinUI是基于tkinter的一个控件，借鉴了HTML和uwp（winUI）组件，用来绘制现代化的虚拟组件，优化tkinter窗口的显示效果和速度。
-
-关于**TinUI**的[站内介绍](https://smart-space.com.cn/project/TinUI)
 
 ### 其它项目
 
