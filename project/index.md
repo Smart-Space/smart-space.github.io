@@ -62,5 +62,5 @@
 
 一键启动工作、学习软件环境。
 
-见[QuickUp](./quickup)。
+见[QuickUp](./QuickUp)。
 

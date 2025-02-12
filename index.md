@@ -80,7 +80,7 @@ TinML的新一版实现直接命名为——[TinText](https://tintext.smart-spac
 
 QuickUp是一个应用组启动器，通过自定义的任务，一键启动工作、学习软件环境。
 
-具体见[QuickUp](./project/quickup)
+具体见[QuickUp](./project/QuickUp)
 
 - - -
 
