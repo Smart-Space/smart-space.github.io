@@ -6,34 +6,8 @@ QuickUp是一个应用组启动器，可以由用户自定义增、删、改任�
 
 用户界面见[介绍文章](https://blog.csdn.net/tinga_kilin/article/details/145587091)。
 
+[QuickUp网站](https://quickup.smart-space.com.cn/)
+
 # 下载地址
 
-当前不提供源码，只提供安装包，在[Github下载页面](https://github.com/Smart-Space/QuickUp/releases/)下载（windows版本）。
-
-# 使用方法
-
-## 主界面
-
-主界面可以创建任务条目，每个任务可以运行、修改、删除。
-
-运行：执行任务条目下的所有指令
-
-修改：打开编辑窗口
-
-删除：从任务列表中删除，不可恢复
-
-## 编辑界面
-
-提供对每一个任务条目的编辑、重命名功能。
-
-重命名：在左上角输入框中更改
-
-### 编辑
-
-编辑分为命令指令和任务指令。
-
-命令指令：基于`cmd`的`start`命令。目标是对应的应用文件，参数是在命令行中显示的参数，最终由QuickUp后台运行为`start "" "{target}" {args}`
-
-任务指令：运行当前已经存在的任务条目，即可以模块化、嵌套封装任务，使得应用组环境搭建更加灵活便捷
-
-每个指令都能够删除，不支持恢复。
+在[Github下载页面](https://github.com/Smart-Space/QuickUp/releases/)下载最新版安装包或源码（仅限windows版本）。
